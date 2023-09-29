@@ -28,4 +28,3 @@ System.out.println("Volume is " + vol);
 vol = mybox2.volume();
 System.out.println("Volume is " + vol);
 }
-}
