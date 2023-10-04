@@ -3,4 +3,5 @@
 1. Palindrome
 2. Armstrong
 3. Fibonacci
-4. so on
+4. OddEven
+5. so on
