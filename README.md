@@ -4,4 +4,4 @@
 2. Armstrong
 3. Fibonacci
 4. OddEven
-5. so on
+5. rest follows
